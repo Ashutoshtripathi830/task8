@@ -191,7 +191,7 @@ body {
         display: block;
     }
 
-    .-btn:focus + .mobile-menu,
+    .btn:focus + .mobile-menu,
     .mobile-menu:hover {
         display: block;
     }
